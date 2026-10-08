@@ -1,3 +1,5 @@
+package com.example.proteincalculator;
+
 import controller.ProteinController;
 import model.ProteinModel;
 import view.InputWindow;
